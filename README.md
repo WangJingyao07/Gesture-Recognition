@@ -1,6 +1,7 @@
 # Gesture-Recognition
 Gesture recognition &amp; Pose estimation. 手势识别、姿态估计等功能（已配置模型）
-
+official code for Paper"Gesture recognition matching based on dynamic skeleton"
+.
 ## Result
 
 ![1660201964432](https://user-images.githubusercontent.com/110955859/184081906-a5a48b59-0724-4d6b-b61b-5ada0f05dbb3.png)
